@@ -80,6 +80,8 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595284
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595288
 #EXTINF:-1 tvg-id="" tvg-name="PICA PAU 2" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",PICA PAU 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595291
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO BAIRRO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",A TURMA DO BAIRRO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595292
 #EXTINF:-1 tvg-id="" tvg-name="44 GATOS (INFANTIL)" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",44 GATOS (INFANTIL)
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595293
 #EXTINF:-1 tvg-id="" tvg-name="A FAMILIA DRACULA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",A FAMILIA DRACULA
@@ -149,30 +151,29 @@ http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595347
 #EXTINF:-1 tvg-id="" tvg-name="WANDINHA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",WANDINHA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595349
 
-
+#EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",MUSICAS
+http://saga10.pro:80/345715/562156/2627276
 
 
 
 
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",1
-http://saga10.pro:80/345715/562156/2627269
+http://saga10.pro:80/345715/562156/2627279
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",2
-http://saga10.pro:80/345715/562156/2627270
+http://saga10.pro:80/345715/562156/2627280
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",3
-http://saga10.pro:80/345715/562156/2627271
+http://saga10.pro:80/345715/562156/2627281
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",4
-http://saga10.pro:80/345715/562156/2627272
+http://saga10.pro:80/345715/562156/2627282
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",5
-http://saga10.pro:80/345715/562156/2627273
+http://saga10.pro:80/345715/562156/2627283
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",6
-http://saga10.pro:80/345715/562156/2627274
+http://saga10.pro:80/345715/562156/2627284
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",7
-http://saga10.pro:80/345715/562156/2627275
+http://saga10.pro:80/345715/562156/2627285
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",8
-http://saga10.pro:80/345715/562156/2627276
+http://saga10.pro:80/345715/562156/2627286
 #EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",9
-http://saga10.pro:80/345715/562156/2627277
-#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",A
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595332
-#EXTINF:-1 tvg-id="" tvg-name="B" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",B
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595292
+http://saga10.pro:80/345715/562156/2627287
+#EXTINF:-1 group-title="TESTE" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png",A
+http://saga10.pro:80/345715/562156/2627288
