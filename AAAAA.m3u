@@ -1,43 +1,59 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",A PANTERA COR DE ROSA
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",A PANTERA COR DE ROSA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595291
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA DO ALASKA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",A GRANDE FAMILIA DO ALASKA
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA DO ALASKA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",A GRANDE FAMILIA DO ALASKA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595289
-#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",A VACA E O FRANGO
+#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",A VACA E O FRANGO
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595294
-#EXTINF:-1 tvg-id="" tvg-name="THE SIMPSONS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",THE SIMPSONS
+#EXTINF:-1 tvg-id="" tvg-name="THE SIMPSONS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",THE SIMPSONS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595200
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",CHAVES
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",CHAVES
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595201
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",CHAPOLIN
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",CHAPOLIN
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595202
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",EU A PATROA E AS CRIANÇAS
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",EU A PATROA E AS CRIANÇAS
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595203
-#EXTINF:-1 tvg-id="" tvg-name="TESTE" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",BOB ESPONJA CALÇA QUADRADA
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",DOIS HOMENS E MEIO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595204
+#EXTINF:-1 tvg-id="" tvg-name="TESTE" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",BOB ESPONJA CALÇA QUADRADA
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595205
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO UZUMAKI" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",NARUTO UZUMAKI
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595206
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",NARUTO SHIPPUDEN
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595207
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",UM MALUCO NO PEDAÇO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595208
+#EXTINF:-1 tvg-id="" tvg-name="ICARLY" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",ICARLY
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595209
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",SOUTH PARK
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595210
+#EXTINF:-1 tvg-id="" tvg-name="STEVEN UNIVERSO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",STEVEN UNIVERSO
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595211
+#EXTINF:-1 tvg-id="" tvg-name="NÃO SEI" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",NÃO SEI
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595212
+#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",LARGADOS E PELADOS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595213
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="ESPECIAIS 24h",TODO MUNDO ODEIA O CHRIS
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595214
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",1
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595204
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595215
 #EXTINF:-1 tvg-id="" tvg-name="2" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",2
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595208
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595216
 #EXTINF:-1 tvg-id="" tvg-name="3" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",3
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595209
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595217
 #EXTINF:-1 tvg-id="" tvg-name="4" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",4
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595210
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595218
 #EXTINF:-1 tvg-id="" tvg-name="5" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",5
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595211
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595219
 #EXTINF:-1 tvg-id="" tvg-name="6" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",6
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595212
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595220
 #EXTINF:-1 tvg-id="" tvg-name="7" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",7
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595213
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595221
 #EXTINF:-1 tvg-id="" tvg-name="8" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="TESTE",8
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595214
+http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595222
