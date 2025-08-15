@@ -539,6 +539,59 @@ https://embedcanaistv.site/24h-chaves/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPECIAIS 24h", Chaves
 https://embedcanaistv.site/24h-chaves/video.m3u8
 
+#EXTINF:-1 group-title="ESPECIAIS 24h", Dragon Ball Z (1)
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Scooby-Doo (1)
+http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", Avatar: A Lenda de Aang
+http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Dois Homens e Meio (1)
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Todo Mundo Odeia o Chris (1)
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Pegadinhas do Silvio Santos
+http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", Chaves (1)
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", Chaves (2)
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Chapolin (1)
+http://24hrs.homelinux.com:80/24H-chapolin1/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Eu a Patroa e as Crianças (1)
+http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", As Visões da Raven (1)
+http://24hrs.homelinux.com:80/24H-asvisoesdaraven/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", StandUp
+http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Três é Demais
+http://24hrs.homelinux.com:8080/24H-tresedemais/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Friends (1)
+http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Drake e Josh
+http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Ben 10 (1)
+http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", O Poderoso Chefinho
+http://24hrs.homelinux.com:80/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Bob Esponja (1)
+http://24hrs.homelinux.com:80/24H-bobesponja/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Os Simpsons (1)
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", X-Men Evolution (1)
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", Pica Pau (1)
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", Cavaleiros do Zodíaco (1)
+http://24hrs.homelinux.com:80/24H-cavaleiros/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 group-title="ESPECIAIS 24h", Cavaleiros do Zodíaco (2)
+http://24hrs.homelinux.com:80/24H-cavaleiros/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Caverna do Dragão (1)
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Futurama (1)
+http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
+#EXTINF:-1 group-title="ESPECIAIS 24h", Apenas um Show (1)
+http://24hrs.homelinux.com:8080/24H-apenasumshow/video.m3u8
+
 ####CANAIS####
 
 #EXTINF:-1 group-title="CANAIS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E FHD
@@ -1279,4 +1332,5 @@ http://saga10.pro:80/345715/562156/1263143
 http://saga10.pro:80/345715/562156/1263144
 #EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/igreja-umiversal-logo-simbolo.gif",TV UNIVERSAL
 http://saga10.pro:80/345715/562156/1263145
+
 
